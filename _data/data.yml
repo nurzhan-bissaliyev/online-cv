@@ -7,15 +7,15 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Nurzhan Bissaliyev
+    name: Ильмира Курбанова
     tagline: Ilmira lover
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
+    email: kurbanova92@mail.ru
+    phone: +7 (701) 0525013
+    website: www.instagram.com/ilmira8592 #do not add http://
+    linkedin: ilmira-kurbanova-29a45b173
     github: sharu725
     gitlab:
     bitbucket:
@@ -54,9 +54,9 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Философии и Политологии
+      university: Казахский национальный университет имени аль-Фараби
+      time: 2010 - 2014
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
