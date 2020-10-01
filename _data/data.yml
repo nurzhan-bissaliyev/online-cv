@@ -45,12 +45,14 @@ sidebar:
         link:
 
 career-profile:
-    title: Career Profile
+    title: Профиль
     summary: |
       Меня зовут Ильмира и я маркетолог.
 
       Я помогаю найти наиболее оптимальным способом задействовать свой рекламный бюджет, получив максимальную выгоду.
+
       Убеждена в том что интернет-маркетинг становиться самым эффективным инструментом для привлечения потребителей и продвижения товара.
+
       В своей работе я нахожу и отбираю только эффективные технологии, инструменты и адаптирую их под задачи заказчика.
 education:
     - degree: Философии и Политологии
@@ -147,48 +149,46 @@ projects:
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
-    title: Publications
+    title: Повышение квалификации
     intro: |
       You can list your publications in this section. Lorem ipsum dolor sit
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
       bibendum fringilla a eu lectus.
     papers:
-      - title: The Art of Computer Programming
+      - title: Excel. Продвинутый уровень
         link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+        authors: Awake kz
+        conference: Алматы, 2020
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+      - title: English language
         link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+        authors: Inlingua
+        conference: School in Malta, 2019
 
-      - title: A syntax directed compiler for Algol 60
+      - title: Doing business in Asia
         link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+        authors: Woosong University
+        conference: Solbridge Internaional School of business, 2015
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Ключевые навыки
 
     toolset:
-      - name: Python & Django
+      - name: Деловая переписка
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: Работа с большим объемом информации
         level: 98%
 
-      - name: Angular
+      - name: Анализ конкурентной среды
         level: 98%
 
-      - name: HTML5 & CSS
+      - name: Ведение отчетности
         level: 95%
 
-      - name: Ruby on Rails
+      - name: Пользователь ПК
         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 40%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
