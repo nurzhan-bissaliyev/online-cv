@@ -77,7 +77,8 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-Опыт работы:
+experiences:
+    title: Профиль
     - role: Менеджер по проектам
       time: 2014 - настоящее время (6 лет 5 месяцев)
       company: ТОО «KeyPro», Алматы
